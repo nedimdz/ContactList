@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="main.name.hint">Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string name="create_contact_button">Create Contact</string>
+    <string name="lblEmail">Email</string>
+    <string name="emai_example">nedim@hotmail.com</string>
+    <string name="lblPhone">Phone</string>
+    <string name="phone_example">036 584 217</string>
+</resources>
